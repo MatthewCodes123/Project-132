@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.anchor{
+    box-shadow: lightblue 1.5px 1.5px 1.5px 1.5px;
+    width:200px;
+}
+
+.back{
+    position:absolute ;
+    bottom:15px;
+}
+
+.objectsText{
+    margin:30px;
+    padding:30px;
+}
